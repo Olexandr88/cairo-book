@@ -3,10 +3,8 @@
 <div align="center">
 <!-- Remember: Keep a span between the HTML tag and the markdown tag.  -->
 
-  <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-17-orange.svg?style=flat-square)](#contributors)
-
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
   <h1>Cairo编程语言教程</h1>
